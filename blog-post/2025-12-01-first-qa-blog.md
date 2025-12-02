@@ -2,6 +2,11 @@
 
 All blog and medium posts links are added here.
 
+## Tools
+- Markdown 2 medium [markdown2medium](https://markdown2medium.vercel.app/)
+- Excel to markdown [excel markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
+- Google sheet link [Sheet](https://docs.google.com/spreadsheets/d/11c-VOF0BgTCj6j9O_cJQQ_xZyBNXcZoaiFapacpUUUs/edit?gid=0#gid=0)
+
 | Sr. No | Post Title                                              | Tags                                                   | URL                                                                                                                                                                                                                                                                                                         |
 | ------ | ------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | How to setup nextjs with prisma, better-auth, postgress | `Nextjs`, `Prisma`, `Better-Auth`, `Postgress` | [View Post](https://medium.com/@kundalikjadhav5545/how-to-setup-nextjs-with-prisma-better-auth-postgress-62802bd29ac0?sk=9026e26076f667738b7a445efc462d20) |
@@ -9,3 +14,5 @@ All blog and medium posts links are added here.
 | 3      | Page Object Model in Playwright automation              | `Playwright`, `Automation`                         | [View Post](https://medium.com/@kundalikjadhav5545/page-object-model-in-playwright-automation-627089165bb1?sk=9038ebc75fcb89db9ef6213863873cf4)                    |
 | 4      | Top 10 best automation practice websites                | `Automation`                                         | [View Post](https://medium.com/@kundalikjadhav5545/top-10-best-automation-practice-websites-732046a40491)                                                                                                                                                                                                   |
 | 5      | Better Auth setup inside Next.js project                | `Nextjs`, `Prisma`, `Better-Auth`, `Postgress` | [View Post](https://medium.com/@kundalikjadhav5545/better-auth-setup-inside-next-js-project-18f32c034224?sk=2147b24544d323be2e86b6a1bcb1fbac)                           |
+
+
